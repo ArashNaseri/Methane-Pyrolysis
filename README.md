@@ -1,4 +1,4 @@
-Welcome to the Essential Analysis repository for Methane Pyrolysis!
+# **Welcome to the Essential Analysis repository for Methane Pyrolysis!**
 
 **Overview:**
 This repository houses essential scripts that are vital for conducting thorough analyses in our project. Here, we focus on optimizing and updating the scripts necessary for processing critical data and extracting valuable insights.
